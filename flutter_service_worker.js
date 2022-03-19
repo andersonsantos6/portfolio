@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "855dd7cd21d6dcbd33b9761c2b331590",
+  "assets/AssetManifest.json": "d8b460d8c1ea68f6a77658b0216949df",
 "assets/assets/gifs/expenses-app.gif": "55e05ab7b28dd2d25e5ddfa139589c46",
+"assets/assets/gifs/future.gif": "3bafe6f33c84a618a87e9296bd1a0667",
 "assets/assets/gifs/meal_project.gif": "d5632da0414895d10ec4e655a29d6efd",
 "assets/assets/gifs/nubank_project.gif": "b37af0191a50030aa86d258f446b9930",
 "assets/assets/images/profile-photo.jpg": "065f7711ed536b3fc9793457e83e3822",
@@ -24,9 +25,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5bdcb8fa649e9ac2014f3207b25cdfaf",
-"/": "5bdcb8fa649e9ac2014f3207b25cdfaf",
-"main.dart.js": "b337780eaf494bc113301548252af935",
+"index.html": "8f7e0141d28433632ccd83aaa182980a",
+"/": "8f7e0141d28433632ccd83aaa182980a",
+"main.dart.js": "2f626fda7b9e47ba70ae0ea2a069140c",
 "manifest.json": "afbad595473125d9919e55440bb9d114",
 "version.json": "cc132570d6d238130e38adc59e1f998d"
 };
