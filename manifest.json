@@ -1,6 +1,6 @@
 {
-    "name": "portfolio_web",
-    "short_name": "portfolio_web",
+    "name": "mytvproject",
+    "short_name": "mytvproject",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
